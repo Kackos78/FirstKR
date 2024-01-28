@@ -1,4 +1,4 @@
-someArray = ["111", "22", "sdffs", "kjkkfj", "fhfhfh"]
+someArray = ["1", "", "hhh", "kjkkfj", "fhfhfh"]
 
 newArrayOfStringsTreeOrLess = []
 for el in someArray:
